@@ -1,0 +1,8 @@
+
+LIBRARY      "HTFileTransferSystemServicePS"
+
+EXPORTS
+	DllGetClassObject		PRIVATE
+	DllCanUnloadNow			PRIVATE
+	DllRegisterServer		PRIVATE
+	DllUnregisterServer		PRIVATE

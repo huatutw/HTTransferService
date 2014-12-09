@@ -1,0 +1,27 @@
+// TimeDogOper.cpp: implementation of the CTimeDogOper class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+//#include "dgadmin.h"
+#include "TimeDogOper.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CTimeDogOper::CTimeDogOper()
+{
+
+}
+
+CTimeDogOper::~CTimeDogOper()
+{
+
+}

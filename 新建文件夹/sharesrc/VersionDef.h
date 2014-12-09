@@ -1,0 +1,1 @@
+#define DEBUG_INFO_OUTPUT		//是否输出OutputDebugString调试信息
